@@ -10,7 +10,7 @@
 
 ## 💡 Summary
 
- Ambitious front-end developer with foundational knowledge in HTML, CSS, JavaScript, and basic experience using React. Passionate about building responsive, accessible, and user-friendly web applications. Eager to grow as a developer and contribute to real-world projects.
+ Ambitious front-end developer with intermidate knowledge in HTML, CSS, JavaScript, and basic experience using React. Passionate about building responsive, accessible, and user-friendly web applications. Eager to grow as a developer and contribute to real-world projects.
 
 ---
 
